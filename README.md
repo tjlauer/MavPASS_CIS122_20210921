@@ -9,7 +9,7 @@
     - double price
  - Create BOTH full and empty constructors
  - Create a method "string ToString()"
- - Create a methoid "void ApplyDiscount(double perc)"
+ - Create a method "void ApplyDiscount(double perc)"
     - Multiply price by perc
     - perc will have a value between 0 and 1
 2) Create 5 shirt objects in Program
